@@ -14,7 +14,6 @@ Requires:	tetex-dvips
 Requires:	tetex-latex
 Requires:	perl-Audio-CD
 BuildArch:	noarch
-BuildRoot:	%{_tmppath}/%{name}-%{version}
 
 %description
 Provides an easy way to produce covers for audio cds.  It scans audio CDs and
