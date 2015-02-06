@@ -1,6 +1,6 @@
 %define name	disc-cover
 %define version 1.5.6
-%define release %mkrel 5
+%define release 6
 
 Name:		%{name}
 Version:	%{version}
