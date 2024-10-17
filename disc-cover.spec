@@ -9,7 +9,7 @@ Summary:	Makes covers for audio CDs using CDDB info
 License:	GPL
 Group:		Graphics
 Source:		http://www.vanhemert.co.uk/files/%{name}-%{version}.tar.bz2
-URL:		http://www.vanhemert.co.uk/disc-cover.html
+URL:		https://www.vanhemert.co.uk/disc-cover.html
 Requires:	tetex-dvips
 Requires:	tetex-latex
 Requires:	perl-Audio-CD
